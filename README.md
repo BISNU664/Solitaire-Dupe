@@ -9,8 +9,6 @@ A fully playable Klondike Solitaire game built using Python and Pygame.
 * Move counter
 * Game timer
 * Foundation suit validation
-* Win screen with final statistics
-* Custom card artwork
 
 ## Technologies Used
 * Python 3
